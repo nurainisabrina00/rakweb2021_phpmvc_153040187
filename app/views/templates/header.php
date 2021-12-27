@@ -21,7 +21,7 @@
 		      </li>
 		      <li class="nav-item">
 		        <a class="nav-link" href="<?php echo BASEURL; ?>/about">About</a>
-		      </li>
+		      </li> 
 		      <li class="nav-item">
 		        <a class="nav-link" href="<?php echo BASEURL; ?>/mahasiswa">Mahasiswa</a>
 		      </li>
